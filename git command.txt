@@ -1,4 +1,4 @@
 git add .
-git comit -m 'add font'
+git commit -m 'add model train'
 git push
 ls
