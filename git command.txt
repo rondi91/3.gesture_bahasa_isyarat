@@ -1,0 +1,4 @@
+git add .
+git comit -m 'add font'
+git push
+ls
