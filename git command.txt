@@ -1,4 +1,5 @@
 git add .
-git commit -m 'add model train'
+git commit -m 'add model train4'
 git push
+
 ls
